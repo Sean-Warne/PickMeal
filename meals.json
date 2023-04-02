@@ -1,0 +1,268 @@
+{
+    "Meals": {
+        "Breakfast": [
+            {
+                "Name": "Annie Chun's Noodles",
+                "Servings": 2,
+                "Tags": [
+                    "Fast",
+                    "Processed",
+                    "High Calorie"
+                ]
+            },
+            {
+                "Name": "Grand Slam",
+                "Servings": 3,
+                "Tags": [
+                    "High Protein"
+                ]
+            },
+            {
+                "Name": "Tamales",
+                "Servings": 3,
+                "Tags": [
+                    "Fast",
+                    "Processed",
+                    "Expensive"
+                ]
+            },
+            {
+                "Name": "Bagel and Cream Cheese",
+                "Servings": 3,
+                "Tags": [
+                    "Fast",
+                    "Processed"
+                ]
+            },
+            {
+                "Name": "Breakfast Bowl",
+                "Servings": 2,
+                "Tags": [
+                    "Fast",
+                    "Processed"
+                ]
+            }
+        ],
+        "Lunch": [
+            {
+                "Name": "Chicken Tikka Masala",
+                "Servings": 3,
+                "URL": "https://www.seriouseats.com/chicken-tikka-masala-for-the-grill-recipe",
+                "Tags": [
+                    "Poultry",
+                    "High Protein",
+                    "Meal Prep"
+                ]
+            },
+            {
+                "Name": "Chicken Shawarma Bowl",
+                "Servings": 3,
+                "URL": "https://theforkedspoon.com/meal-prep-chicken-shawarma-quinoa-bowls/",
+                "Tags": [
+                    "Poultry",
+                    "High Protein",
+                    "Meal Prep"
+                ]
+            },
+            {
+                "Name": "Chicken Stir Fry",
+                "Servings": 3,
+                "Tags": [
+                    "Poultry",
+                    "High Protein",
+                    "Meal Prep",
+                    "Easy"
+                ]
+            },
+            {
+                "Name": "Cheeseburger Meatloaf",
+                "Servings": 3,
+                "URL": "https://www.budgetbytes.com/cheeseburger-meatloaf-meal-prep/",
+                "Tags": [
+                    "Red Meat",
+                    "High Protein",
+                    "Meal Prep",
+                    "Easy"
+                ]
+            },
+            {
+                "Name": "Chili and Cornbread",
+                "Servings": 3,
+                "URL": "https://www.mccormick.com/recipes/main-dishes/easy-chili-recipe",
+                "Tags": [
+                    "Red Meat",
+                    "High Protein",
+                    "Meal Prep",
+                    "Easy"
+                ]
+            },
+            {
+                "Name": "Mexican Stuffed Shells",
+                "Servings": 4,
+                "URL": "https://photos.google.com/album/AF1QipMRztFaIXC9ohE3EuSbVUYSI1FA2nkM_txM_qo-/photo/AF1QipPtLcXVy9MRmQCvIFUjbdBk4ZDuLz3QXRIP-bNF",
+                "Tags": [
+                    "Red Meat",
+                    "High Protein",
+                    "High Calorie",
+                    "Meal Prep",
+                    "Easy"
+                ]
+            },
+            {
+                "Name": "Slow Cooker BBQ Meatballs",
+                "Servings": 3,
+                "Tags": [
+                    "Red Meat",
+                    "High Protein",
+                    "Meal Prep",
+                    "Easy"
+                ]
+            },
+            {
+                "Name": "Pasta with meat sauce",
+                "Servings": 3,
+                "Tags": [
+                    "Red Meat",
+                    "High Protein",
+                    "Meal Prep",
+                    "Easy"
+                ]
+            },
+            {
+                "Name": "Slow Cooker Roast",
+                "Servings": 4,
+                "Tags": [
+                    "Red Meat",
+                    "High Protein",
+                    "Meal Prep",
+                    "Easy"
+                ]
+            }
+        ],
+        "Dinner": [
+            {
+                "Name": "Crispy Buffalo Chicken Wings",
+                "Servings": 4,
+                "URL": "https://cafedelites.com/crispy-buffalo-chicken-wings-baked/",
+                "Tags": [
+                    "Poultry",
+                    "High Protein",
+                    "Easy"
+                ]
+            },
+            {
+                "Name": "Creamy Chicken Alfredo",
+                "Servings": 3,
+                "Tags": [
+                    "Poultry",
+                    "High Protein",
+                    "Easy"
+                ]
+            },
+            {
+                "Name": "Chicken Fajitas",
+                "Servings": 4,
+                "Tags": [
+                    "Poultry",
+                    "High Protein",
+                    "Easy"
+                ]
+            },
+            {
+                "Name": "Chicken Sandwich",
+                "Servings": 3,
+                "Tags": [
+                    "Poultry",
+                    "High Protein",
+                    "Easy"
+                ]
+            },
+            {
+                "Name": "Sloppy Joes",
+                "Servings": 4,
+                "URL": "https://www.budgetbytes.com/sloppy-joes/",
+                "Tags": [
+                    "Red Meat",
+                    "High Protein",
+                    "Easy"
+                ]
+            },
+            {
+                "Name": "Hamburger",
+                "Servings": 3,
+                "Tags": [
+                    "Red Meat",
+                    "High Protein",
+                    "Easy"
+                ]
+            },
+            {
+                "Name": "TexMex Tacos",
+                "Servings": 3,
+                "Tags": [
+                    "Red Meat",
+                    "High Protein",
+                    "Easy"
+                ]
+            },
+            {
+                "Name": "Steak",
+                "Servings": 2,
+                "Tags": [
+                    "Red Meat",
+                    "High Protein",
+                    "Easy"
+                ]
+            },
+            {
+                "Name": "Pork Chop",
+                "Servings": 3,
+                "Tags": [
+                    "Red Meat",
+                    "High Protein",
+                    "Easy"
+                ]
+            },
+            {
+                "Name": "Brats",
+                "Servings": 3,
+                "Tags": [
+                    "Red Meat",
+                    "Easy"
+                ]
+            },
+            {
+                "Name": "Fish and Chips",
+                "Servings": 3,
+                "Tags": [
+                    "Seafood",
+                    "High Protein",
+                    "Easy"
+                ]
+            }
+        ],
+        "Snacks": [
+            {
+                "Name": "Poptarts"
+            },
+            {
+                "Name": "Breakfast Cereal"
+            },
+            {
+                "Name": "PB&J"
+            },
+            {
+                "Name": "Avocado Toast"
+            },
+            {
+                "Name": "Cashews"
+            },
+            {
+                "Name": "Popcorn"
+            },
+            {
+                "Name": "Cottage Cheese"
+            }
+        ]
+    }
+}
